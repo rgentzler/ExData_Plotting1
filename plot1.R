@@ -1,4 +1,3 @@
-setwd("C:/Users/gent7553/Documents/GitHub/Exp-Data-Analysis")
 data <- read.table("household_power_consumption.txt",
                    sep = ";", header = TRUE)
 
